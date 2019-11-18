@@ -20,7 +20,7 @@ The TV Guide page provides a grid of the TV listings for each channel. You can u
 
 When you click a TV show, you'll see the details for that show, and buttons to allow you schedule that show to be record. 
 
-![Details Page](images/details.png)
+![Details Page](images/guide-details.png)
 
 #### Search
 The Search page provides you a way to search for a specific show. Simply enter a keyword or phrase and hit 'Search'. It'll find any show with that text in the title or description.
