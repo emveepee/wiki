@@ -12,6 +12,6 @@ run NextPVRServer.exe
 
 ### Windows Client
 The windows client, nextpvr.exe, is included in the 'client' subdirectory. At this stage it can only connect to NextPVR running on the same Windows machine.
-[[/images/nextpvr.png|alt="NextPVR Desktop app"]]
+![nextpvr.exe](images/nextpvr.png)
 
 A tray app is also available, which can give you a visual indication of when the application is recording or idle. This can run using NPVRTray.exe.

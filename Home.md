@@ -5,7 +5,7 @@ This is the home of documentation describing everything NextPVR related. It desc
 ### What is NextPVR?
 NextPVR is a personal video recorder application for Microsoft Windows, Linux, Mac and Docker. NextPVR makes it easy to watch or record live TV, and provides great features like series recordings, web scheduling, iPhone/iPad client application, Kodi/Emby integration etc.
 
-[[/images/start.png|alt="NextPVR Start Page"]]
+![Start Page](images/start.png)
 
 NextPVR is free for personal, non-commercial use. Commercial use requires a license. You can contact us via the https://nextpvr.com website if you need a commercial license. 
 

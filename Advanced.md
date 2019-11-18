@@ -4,7 +4,7 @@ On the Manual Recording popup, you can set the recording type to 'Advanced'. You
 
 An advanced recording rule is effectively a SQL clause, used for querying the database to find matching shows. These queries can range from very simple to incredibly complicated, but give you the flexibility to record based on all sorts of criteria.
 
-[[/images/advanced.png|alt="Advanced Recording"]]
+![Advanced Recording](images/advanced.png)
 
 ### examples
 Record all shows with 'news' in the title.
