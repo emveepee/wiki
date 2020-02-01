@@ -20,3 +20,6 @@
 * [Advanced Rules](Advanced)
 * [Extras](Extras)
 * [config.xml](Setup-Main)
+
+### Utilities
+* [NextEnd](NextEnd)
