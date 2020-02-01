@@ -10,7 +10,7 @@
 ### Setting Up NextPVR
 * [Setup](Setup-Main)
 
-### Using NextPVR 
+### Using NextPVR
 * [Web App](Using-Web-Application)
 * [Other Clients](Other-Clients)
 
@@ -22,4 +22,4 @@
 * [config.xml](Setup-Main)
 
 ### Utilities
-* [NextEnd](NextEnd)
+* [Utilities](utilities/Utilities)
