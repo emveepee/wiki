@@ -16,7 +16,7 @@ The following command can be used to run NextPVR in the backgrow. As you can see
 >     --volume /home/graeme/videos:/buffer \
 >     --publish 8866:8866 \
 >     nextpvr/nextpvr_amd64:latest
-
+<!-- Should we add timezone? -->
 If you're using an older legacy HDHomeRun, you'll also need a couple more parameters (replacing 192.168.1.51 with your host's IP address):
 
 >     --env HOST_IP=192.168.1.51 \
