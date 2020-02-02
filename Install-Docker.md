@@ -23,9 +23,9 @@ If you're using an older legacy HDHomeRun, you'll also need a couple more parame
 >     --publish 8026:8026/udp \
 
 In this example:
-1) the /config directory in the container will map to the users ~/config directory
-2) the /recordings directory the container will map to the users ~/videos directory
-3) the /buffer directory in the container will map to the users ~/videos directory
+1) the /config directory in the container will map to the user's ~/config directory
+2) the /recordings directory the container will map to the user's ~/videos directory
+3) the /buffer directory in the container will map to the user's ~/videos directory
 4) the local port 8866 will mapped to port 8866 in the container. NextPVR has historically used port 8866, so exposing it as port 8866 allows apps like Kodi to continue to access it easily.
 
 ### Using NextPVR
